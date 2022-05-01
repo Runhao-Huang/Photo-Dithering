@@ -1,6 +1,4 @@
 /*Runhao Huang
-CSC112 Fall 2021
-Programming Assignment 2
 October 13th, 2021
 This program allows user to choose a raw image each time and process the image in 4 different dithering methods. The methods
 include thresholding, random dithering, pattern dithering, and error diffusion. A raw image will be output each time.
